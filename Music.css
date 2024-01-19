@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    width: 100%;
+}
+*{
+    font-family: "Roboto", sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-family: arial;
+}
+
+h3{
+    font-size: 20px;
+    font-family: arial;
+    font-weight: 500;
+}
+
+/*Section Header*/
+.nav-section{
+    background-color: #270082;
+    color: white;
+
+
+}
+.nav-ul{
+
+ display: flex;
+
+    
+}
+.nav-ul li{
+    font-family: arial;
+    margin-top: 10px;
+list-style-type: none;
+
+}
+.li-nav-main{
+    margin-left: 700px;
+}
+.li-nav{
+    margin-left: 30px;
+}
+
+
+.nav-section{
+    display: flex;
+    
+    
+}
+.mytune{
+    margin-left: 50px;
+
+}
+
+/*section 1 DJ START*/
+.DJ-section{
+    margin-top: -33px;
+    background-image: url(Dj-1.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+  
+
+}
+.DJ-tunes{
+    padding-top: 240px;
+    font-size: 40px;
+    font-family: arial;
+    
+}
+.DJ-your-music{
+    font-size: 23px;
+    font-family: arial;
+
+}
+.Dj-MyMusic{
+    width: 700px;
+    padding-left: 270px;
+
+}
+
+/*SECTION 2 STARTED*/
+
+.Millon-Song{
+    margin-top: -33px;
+    width: 100%;
+    height: 100vh;
+    background-color: #281154;
+    color: white;
+    text-align: center;
+}
+.orange-music{
+    width: 800px;
+    padding-left: 270px;
+}
+.btn-Start{
+    width: 200px;
+    height: 40px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+.org-mus-available{
+font-weight: lighter;
+font-size: 12px;
+}
+.mill-h1{
+    padding-top: 50px;
+    margin-left: -15px;
+}
+.img-ipad{
+    margin-top: -250px;
+    margin-left: 200px;
+}
+.Movie-section{
+    text-align: center;
+}
+.movie-h3{
+    font-weight: bold;
+}
+.btn-movie{
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: #270082;
+    border: none;
+}
+
+.Video-music{
+    background-image: url(video.png);
+    width: 100%;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+.img-gifit{
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.gif-h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+.gif-div{
+    padding-bottom: 100px;
+    margin-top: 70px;
+    margin-left: 100px;
+    
+}
+.gif-p-1{
+    width: 95%;
+}
+
+.btn-Redeem{
+    background-color: #270082;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 35px;
+}
+.fotter{
+    padding-top: 20px;
+    padding-bottom: 20px;
+color: white;
+ background-color: #281154;
+    display: flex;
+    justify-content: space-between;
+}
+.fott-p{
+    margin-left: 30px;
+}
+.final{
+font-weight: lighter;
+    padding-top: 10px;
+   padding-bottom: 10px;
+    text-align: center;
+  background-color: #270082;
+    color:white;
+    font-style: 20px;
+}
+.fotter ul li{
+    list-style-type: none;
+  
+    
+    
+}
